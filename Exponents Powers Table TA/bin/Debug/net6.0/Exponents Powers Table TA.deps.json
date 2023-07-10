@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exponents Powers Table TA/1.0.0": {
+        "runtime": {
+          "Exponents Powers Table TA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exponents Powers Table TA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

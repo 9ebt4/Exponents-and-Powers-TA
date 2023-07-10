@@ -1,0 +1,15 @@
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\bin\Debug\net6.0\Exponents Powers Table TA.exe
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\bin\Debug\net6.0\Exponents Powers Table TA.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\bin\Debug\net6.0\Exponents Powers Table TA.runtimeconfig.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\bin\Debug\net6.0\Exponents Powers Table TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\bin\Debug\net6.0\Exponents Powers Table TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\obj\Debug\net6.0\Exponents Powers Table TA.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\obj\Debug\net6.0\Exponents Powers Table TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\obj\Debug\net6.0\Exponents Powers Table TA.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\obj\Debug\net6.0\Exponents Powers Table TA.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\obj\Debug\net6.0\Exponents Powers Table TA.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\obj\Debug\net6.0\Exponents Powers Table TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\obj\Debug\net6.0\refint\Exponents Powers Table TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\obj\Debug\net6.0\Exponents Powers Table TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\obj\Debug\net6.0\Exponents Powers Table TA.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Exponents Powers Table TA\Exponents Powers Table TA\obj\Debug\net6.0\ref\Exponents Powers Table TA.dll
